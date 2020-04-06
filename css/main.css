@@ -13,7 +13,7 @@ div {
 p {
   font-family: 'Merriweather', serif;
   font-size: 23px;
-  color: #d9cccc;
+  color: #f4e4e4;
   text-align: left;
 }
 
@@ -30,7 +30,6 @@ section {
 }
 .full-width {
   width: 1400px;
-  overflow: auto;
   align-items: center;
   text-align: center;
   margin: 0 auto;
@@ -56,7 +55,7 @@ nav ul li a {
   text-decoration: none;
   margin: 0px;
   font-size: 20px;
-  color: #2bd9a8;
+  color: #f4e4e4;
   padding-right: 75px;
 }
 
@@ -64,34 +63,36 @@ nav ul li a {
 
 h1 {
   font-family: 'Indie Flower', cursive;
-  color: #d9cccc;
+  color: #f4e4e4;
   height: 100px;
+  margin-left: 700px;
   margin: 0px;
   padding: 0px;
   font-size: 64px;
 }
 
 h2 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin-top: 50px;
   margin-left: 700px;
   line-height: 75px;
   text-align: left;
-  color: white;
+  color: #f4e4e4;
   font-size: 55px;
 }
 
 header {
   height: 800px;
+  width: 100%;
   background: url("../img/hero-image.png") no-repeat 0px 0px;
   background-size: cover;
-  overflow-x: : auto;
   border-left: 1px solid #a6948d;
   border-right: 1px solid #a6948d;
   border-top: 1px solid #a6948d;
 }
+
 #name {
-  color: white;
+  color: #f4e4e4;
   font-family: 'Indie Flower', cursive;
   text-align: left;
 }
@@ -113,17 +114,17 @@ header {
 }
 
 h3 {
-font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
   text-align: center;
-  color: #2cbf7b;
+  color: #f4e4e4;
   margin-top: 10px;
   line-height: 100px;
   font-size: 36px;
 }
 
 h4 {
-  font-family: 'Raleway', sans-serif;
-  color: #d9cccc;
+  font-family: 'Roboto', sans-serif;
+  color: #f4e4e4;
   line-height: 0px;
   font-size: 27px;
 }
@@ -190,11 +191,10 @@ h4 {
 footer {
   font-family: 'Roboto', sans-serif;
   background-color: #2d7331;
-  color: #d9cccc;
-  margin-top: 180px;
+  color: #f4e4e4;
+  margin-top: 200px;
   font-size: 15px;
   margin-bottom: 5px;
   font-family: 'Merriweather', serif;
-  border-left: 1px solid #b7b7b7;
-  border-right: 1px solid #a6948d;
+
 }
